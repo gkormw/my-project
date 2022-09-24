@@ -1,1 +1,3 @@
 git study
+park very nicegit status -s
+our github address https://github.com/gkormw/my-project.git
